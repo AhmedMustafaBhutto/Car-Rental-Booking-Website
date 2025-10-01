@@ -8,3 +8,8 @@ Wait till server start and connection established with mongodb cloud.
 
 3. Run command npm start to start script.
 ### `npm start`
+## Setup Instructions
+1. Copy the `.env.example` file
+2. Rename it to `.env`
+3. Add your actual credentials inside `.env`
+4. Run the project
